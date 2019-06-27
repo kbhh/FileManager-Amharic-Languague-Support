@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.kbd.filemanager.MainActivity">
+    <item
+        android:id="@+id/paste_items"
+        android:orderInCategory="100"
+        android:title="@string/paste"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/move_items"
+        android:orderInCategory="100"
+        android:title="@string/change"
+        app:showAsAction="always" />
+</menu>

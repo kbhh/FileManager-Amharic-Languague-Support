@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">ፋይል</string>
+<string name="action_settings">ማስተካክያ</string>
+<string name="section_format">Hello World from section: %1$d</string>
+<string name="search_hint">ፋይል ፈልግ</string>
+<string name="title_activity_search_dialog">SearchDialog</string>
+<string name="file_android_string_fingerprint_icon_content_description">file @android:string/fingerprint_icon_content_description</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+<string name="hello_blank_fragment">Hello blank fragment</string>
+<string name="phone_srorage">የስልክ ሚሞሪ</string>
+<string name="sd_card">ሜሞሪ ካርድ</string>
+<string name="phone_storage">የስልክ ሜሞሪ</string>
+<string name="images">ፎቶ</string>
+
+<string name="movies">ተንቀሳቃሽ ምስል</string>
+<string name="lable">lable</string>
+<string name="music">ሙዚቃ</string>
+<string name="exit">ዝግ</string>
+<string name="exitStat">እርግጠኛ ‘ንዎት ይህንን አፕሊኬሽን መዝጋት ይፈልጋሉ ?</string>
+<string name="documents">ዶክመንት</string>
+<string name="yes">አዎ</string>
+<string name="languge">ቋንቋ</string>
+<string name="no">አይደለሁም</string>
+<string name="ok">ፈፅም</string>
+<string name="cancel">አቋርጥ</string>
+    <string name="amharic">አማርኛ</string>
+ <string name="english">ኢንግሊዘኛ</string>
+    <string name="home">ዋና</string>
+<string name="rename">ስም ቀይር</string>
+<string name="copy">ኮፒ</string>
+<string name="delete">አጥፋ</string>
+<string name="move">ቦታ ቀይር</string>
+<string name="createFolder">አዲስ ፎልደር</string>
+<string name="folderName">የፎልደሩ ስም</string>
+<string name="create">ፍጠር</string>
+<string name="paste">አስቀምጥ</string>
+<string name="change">ቀይር</string>
+<string name="deleteFile">ፋይል አጥፋ</string>
+<string name="permssion">እርግጠኛ ‘ኖት ይህንን ፋይል ማጥፋት ይፍልጋሉ?</string>
+
+
+<string name="sortSize">በመጠን ደርድር</string>
+<string name="sortName">በስም ደርድር</string>
+
+
+
+</resources>
+

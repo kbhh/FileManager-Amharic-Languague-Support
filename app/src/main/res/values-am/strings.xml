@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <!--<resources>-->
+        <!--<string name="app_name">ፋይል</string>-->
+        <!--<string name="action_settings">ማስተካክያ</string>-->
+        <!--<string name="section_format">Hello World from section: %1$d</string>-->
+        <!--<string name="search_hint">ፋይል ፈልግ</string>-->
+        <!--<string name="title_activity_search_dialog">SearchDialog</string>-->
+        <!--<string name="file_android_string_fingerprint_icon_content_description">file @android:string/fingerprint_icon_content_description</string>-->
+
+        <!--&lt;!&ndash; TODO: Remove or change this placeholder text &ndash;&gt;-->
+        <!--<string name="hello_blank_fragment">Hello blank fragment</string>-->
+        <!--<string name="phone_srorage">የስልክ ሚሞሪ</string>-->
+        <!--<string name="sd_card">ሜሞሪ ካርድ</string>-->
+        <!--<string name="phone_storage">የስልክ ሜሞሪ</string>-->
+        <!--<string name="images">ፎቶ</string>-->
+
+        <!--<string name="movies">ተንቀሳቃሽ ምስል</string>-->
+        <!--<string name="lable">lable</string>-->
+        <!--<string name="music">ሙዚቃ</string>-->
+        <!--<string name="documents">ዶክመንት</string>-->
+    <!--</resources>-->
+
+<resources>
+<string name="app_name">FMAN</string>
+<string name="action_settings">Settings</string>
+<string name="section_format">Hello World from section: %1$d</string>
+<string name="search_hint">Search File</string>
+<string name="title_activity_search_dialog">SearchDialog</string>
+<string name="file_android_string_fingerprint_icon_content_description">file @android:string/fingerprint_icon_content_description</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+<string name="hello_blank_fragment">Hello blank fragment</string>
+<string name="phone_srorage">Phone Srorage</string>
+<string name="sd_card">SD Card</string>
+<string name="phone_storage">Phone Storage</string>
+<string name="images">Images</string>
+
+<string name="movies">Movies</string>
+<string name="lable">lable</string>
+<string name="music">Music</string>
+<string name="documents">Documents</string>
+    <string name="home">Home</string>
+    <string name="exit">Exit</string>
+    <string name="exitStat">Are You Sure</string>
+    <string name="yes">Yes</string>
+    <string name="languge">Languege</string>
+    <string name="no">No</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancle</string>
+    <string name="amharic">Amharic</string>
+    <string name="english">English</string>
+    <string name="rename">Rename</string>
+    <string name="copy">Copy</string>
+    <string name="delete">Delete</string>
+    <string name="move">Move</string>
+    <string name="createFolder">New Folder</string>
+    <string name="folderName">Folder Name</string>
+    <string name="create">Create</string>
+    <string name="paste">Paste</string>
+    <string name="change">Change</string>
+    <string name="sortSize">Sort By Size</string>
+    <string name="sortName">Sort By Name</string>
+    <string name="deleteFile">Delete</string>
+    <string name="permssion">Are You Sure You Want To Delete This File ?</string>
+</resources>
